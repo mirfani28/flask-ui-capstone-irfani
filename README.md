@@ -1,4 +1,4 @@
-# Submission for FLASK UI CAPSTONE PROJECT by M IRFANI
+## Submission for FLASK UI CAPSTONE PROJECT by IRFANI
 
 # Google Play Store Analytics
 <img src="https://raw.githubusercontent.com/fafilia/capstone-UIFlask/master/full_capstone.png">

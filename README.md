@@ -1,4 +1,4 @@
-## Submission for Flask UI Capstone by Irfani
+# Submission for Flask UI Capstone by Irfani
 
 # Google Play Store Analytics
 <img src="https://raw.githubusercontent.com/fafilia/capstone-UIFlask/master/full_capstone.png">
